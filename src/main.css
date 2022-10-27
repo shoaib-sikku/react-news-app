@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Navbar */
+.navbar-toggler{
+    border: none;
+}
+
+.offcanvas-start{
+    transition: all 0.3s;
+}
+.banner{
+    padding: 10px 20px;
+    background-color: rgb(244, 67, 54);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* footer */
+
+.footer{
+    background-color:rgb(50, 50, 50);
+}
